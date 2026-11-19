@@ -59,14 +59,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p5po&show_icons=true&theme=tokyonight&hide_border=true" alt="p5po GitHub Stats" />
-</p>
-
----
-
 ### 📫 Connect With Me
 
 - 💼 **LinkedIn:** [Abdullah Bin Taleb](https://sa.linkedin.com/in/abdullah-bin-taleb-6b6155344)
